@@ -251,6 +251,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-ssr-python-pro-server=y
           CONFIG_PACKAGE_luci-app-unblockmusic=y
           CONFIG_PACKAGE_luci-app-upnp=y
+          CONFIG_PACKAGE_luci-app-smartdns=y
           EOF
           
           # LuCI主题:
