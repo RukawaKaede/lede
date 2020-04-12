@@ -56,7 +56,7 @@ jobs:
 
       - name: Customize plugins
         run: |
-          cd lede/package/lean/
+          cd package/lean/
           git clone https://github.com/jerrykuku/lua-maxminddb.git
           git clone https://github.com/jerrykuku/luci-app-vssr.git
 
